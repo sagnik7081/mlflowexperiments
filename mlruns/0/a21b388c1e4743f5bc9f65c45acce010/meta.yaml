@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KIIT/Documents/Programs/Machine%20Learning/ML-Flow/mlruns/0/a21b388c1e4743f5bc9f65c45acce010/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a21b388c1e4743f5bc9f65c45acce010
+run_name: painted-pig-135
+run_uuid: a21b388c1e4743f5bc9f65c45acce010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723699292126
+status: 1
+tags: []
+user_id: KIIT

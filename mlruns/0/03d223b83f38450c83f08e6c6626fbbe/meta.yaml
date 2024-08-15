@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/KIIT/Documents/Programs/Machine%20Learning/ML-Flow/mlruns/0/03d223b83f38450c83f08e6c6626fbbe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03d223b83f38450c83f08e6c6626fbbe
+run_name: righteous-kite-193
+run_uuid: 03d223b83f38450c83f08e6c6626fbbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723698850345
+status: 1
+tags: []
+user_id: KIIT
